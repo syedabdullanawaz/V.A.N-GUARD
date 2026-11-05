@@ -1,4 +1,4 @@
-# 🛡️ AirWatch-AI: Wi-Fi RF Sniffer & Machine Learning Anomaly Detector
+# 🛡️ V.A.N GUARD: Wi-Fi RF Sniffer & Machine Learning Anomaly Detector
 
 An edge-to-host Wi-Fi intrusion detection and IoT security monitoring system combining an **ESP8266** hardware packet sniffer with an unsupervised **Machine Learning (Isolation Forest)** analytics engine in Python, plus optional **ThingSpeak IoT Cloud** live telemetry.
 
